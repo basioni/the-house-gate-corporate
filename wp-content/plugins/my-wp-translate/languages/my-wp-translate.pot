@@ -1,0 +1,113 @@
+# Copyright (C) 2015 My WP Translate by MyThemeShop
+# This file is distributed under the same license as the My WP Translate by MyThemeShop package.
+msgid ""
+msgstr ""
+"Project-Id-Version: My WP Translate by MyThemeShop 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/my-wp-translate\n"
+"POT-Creation-Date: 2015-11-09 20:04:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-my-wp-translate-admin.php:92
+msgid "Are you sure you want to delete plugin translations?"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:93
+msgid "Please make sure that you have correct code and that you have the backup of current strings. Proceed?"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:94
+msgid "No data to import. Please paste the code in import field."
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:95
+msgid "Updating export code..."
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:110
+msgid "WP Translate by MyThemeShop"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:111
+msgid "WP Translate"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:145
+msgid "Select Active Plugin"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:201
+msgid "Add"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:225
+msgid "Enable translation panel"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:228
+msgid "We couldn't find language file, please enter the path to your theme/plugin language file relative to wp-content folder."
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:235
+msgid "Search Translations"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:239
+msgid "Strings Per Page:"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:266
+msgid "Toggle Import/Export Options"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:270
+msgid "Import Translated Strings"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:271
+msgid "Export Translated Strings"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:276
+msgid "Paste your import/backup code and press \"Import\" button below."
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:278
+msgid "Import"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:282
+msgid "Copy export/backup code and keep it safe."
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:290
+msgid "Create and Download .po file"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:347
+msgid "Add Plugin"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:582
+msgid "Translated <span class=\"translated\">%1$d</span> strings out of <span class=\"total\">%2$d</span> <span class=\"percent\">(%3$.2f%%)</span>"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:596
+msgid "Page:"
+msgstr ""
+
+#: admin/class-my-wp-translate-admin.php:814
+msgid "Something is wrong with import data. Please paste valid code and try again."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "My WP Translate by MyThemeShop"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Quickly translate active theme/plugin strings."
+msgstr ""

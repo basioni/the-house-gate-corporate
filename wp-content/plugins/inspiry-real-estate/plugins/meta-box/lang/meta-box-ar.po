@@ -1,0 +1,1316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta Box Script For WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-03 15:09+0700\n"
+"PO-Revision-Date: Sun Feb 28 2016 06:32:10 GMT+0200 (Egypt Standard Time)\n"
+"Last-Translator: Shehab Sayed <shehabsayed1989@gmail.com>\n"
+"Language-Team: Adel Qalieh <aqalieh95@gmail.com>\n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Language: ar\n"
+"X-Source-Language: en\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../inc/fields\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Inspiry Real Estate"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://inspirythemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Inspiry real estate plugin provides property post type and agent post type "
+"with related functionality."
+msgstr ""
+
+#. Author of the plugin
+msgid "M Saqib Sarwar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/InspiryThemes"
+msgstr ""
+
+#: ../../../inspiry-real-estate.php:76
+msgid "Meta Box plugin has been deactivated!"
+msgstr ""
+
+#: ../../../inspiry-real-estate.php:77
+msgid "As now its functionality is embedded with in Inspiry Real Estate plugin."
+msgstr ""
+
+#: ../../../inspiry-real-estate.php:78
+msgid "So, You should completely remove it from your plugins."
+msgstr ""
+
+#. Name of the plugin
+msgid "Meta Box Tabs"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://metabox.io/plugins/meta-box-tabs"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create tabs for meta boxes easily. Support 3 WordPress-native tab styles."
+msgstr ""
+
+#. Author of the plugin
+msgid "Rilwis"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://metabox.io"
+msgstr ""
+
+#. Name of the plugin
+msgid "Meta Box Show Hide"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://metabox.io/plugins/meta-box-show-hide-javascript"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily show/hide meta boxes by page template, taxonomy (including category, "
+"post format) using Javascript."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.deluxeblogtips.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "Meta Box Columns"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.deluxeblogtips.com/meta-box"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display fields more beautiful by putting them into 12-columns grid."
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:123 ../../../admin/class-
+#: inspiry-real-estate-admin.php:166
+msgid "Inspiry Real Estate Settings"
+msgstr ""
+
+#. The value used to populate the browser's title bar when the menu page is active
+#: ../../../admin/class-inspiry-real-estate-admin.php:124
+msgid "Real Estate"
+msgstr ""
+
+#. The ID of the top-level menu page to which this submenu item belongs
+#. The value used to populate the browser's title bar when the menu page is active
+#. ID used to identify this section and with which to register options
+#: ../../../admin/class-inspiry-real-estate-admin.php:134 ../../../admin/class-
+#: inspiry-real-estate-admin.php:135 ../../../admin/class-inspiry-real-estate-
+#: admin.php:183 ../../../admin/class-inspiry-real-estate-admin.php:341
+msgid "URL Slugs"
+msgstr ""
+
+#. ID used to identify this section and with which to register options
+#: ../../../admin/class-inspiry-real-estate-admin.php:182 ../../../admin/class-
+#: inspiry-real-estate-admin.php:226
+msgid "Price Format"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:236
+msgid "Currency Sign"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:244
+msgid "Default: $"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:250
+msgid "Currency Sign Position"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:259
+msgid "Before ($450,000)"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:260
+msgid "After (450,000$)"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:262
+msgid "Default: Before"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:268
+msgid "Thousand Separator"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:276
+msgid "Default: ,"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:282
+msgid "Decimal Separator"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:290
+msgid "Default: ."
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:296
+msgid "Number of Decimals"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:304
+msgid "Default: 0"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:310
+msgid "Empty Price Text"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:317
+msgid "Price on call"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:318
+msgid "Text to display in case of empty price. Example: Price on call"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:351 ../../../admin/class-
+#: inspiry-property-post-type.php:24 ../../../admin/class-inspiry-property-post-
+#: type.php:373
+msgid "Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:358 ../../../admin/class-
+#: inspiry-property-post-type.php:39 ../../../admin/class-inspiry-property-post-
+#: type.php:46
+msgid "property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:359
+msgid "Default: property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:365
+msgid "Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:372 ../../../admin/class-
+#: inspiry-property-post-type.php:97
+msgid "property-type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:373
+msgid "Default: property-type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:379
+msgid "Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:386 ../../../admin/class-
+#: inspiry-property-post-type.php:144
+msgid "property-status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:387
+msgid "Default: property-status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:393
+msgid "Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:400 ../../../admin/class-
+#: inspiry-property-post-type.php:191
+msgid "property-city"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:401
+msgid "Default: property-city"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:407
+msgid "Property Feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:414 ../../../admin/class-
+#: inspiry-property-post-type.php:238
+msgid "property-feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:415
+msgid "Default: property-feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:421 ../../../admin/class-
+#: inspiry-property-post-type.php:556 ../../../admin/class-inspiry-agent-post-
+#: type.php:24
+msgid "Agent"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:428 ../../../admin/class-
+#: inspiry-agent-post-type.php:39 ../../../admin/class-inspiry-agent-post-type.
+#: php:46
+msgid "agent"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:429
+msgid "Default: agent"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:444
+msgid ""
+"Using options provided below, You can modify price format to match your "
+"needs."
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:451
+msgid "You can modify URL slugs to match your needs."
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:452
+msgid ""
+"Just make sure to re-save permalinks settings after every change to avoid "
+"404 errors. You can do that from Settings > Permalinks ."
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:478 ../../../admin/class-
+#: inspiry-real-estate-admin.php:510
+msgid "Field id is missing!"
+msgstr ""
+
+#: ../../../admin/class-inspiry-real-estate-admin.php:521
+msgid "Settings"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Properties"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:23
+msgid "Properties"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:25
+msgid "Parent Property:"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:26
+msgid "All Properties"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:27
+msgid "Add New Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:28 ../../../admin/class-
+#: inspiry-agent-post-type.php:28 ../../../admin/class-inspiry-partner-post-type.
+#: php:28
+msgid "Add New"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:29
+msgid "New Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:30
+msgid "Edit Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:31
+msgid "Update Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:32
+msgid "View Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:33
+msgid "Search Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:34 ../../../admin/class-
+#: inspiry-agent-post-type.php:34 ../../../admin/class-inspiry-partner-post-type.
+#: php:34
+msgid "Not found"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:35 ../../../admin/class-
+#: inspiry-agent-post-type.php:35 ../../../admin/class-inspiry-partner-post-type.
+#: php:35
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:47
+msgid "Real Estate Property"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:77
+msgctxt "Taxonomy General Name"
+msgid "Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:78
+msgctxt "Taxonomy Singular Name"
+msgid "Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:79
+msgid "Types"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:80
+msgid "All Property Types"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:81
+msgid "Parent Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:82
+msgid "Parent Property Type:"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:83
+msgid "New Property Type Name"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:84
+msgid "Add New Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:85
+msgid "Edit Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:86
+msgid "Update Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:87
+msgid "View Property Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:88
+msgid "Separate Property Types with commas"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:89
+msgid "Add or remove Property Types"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:90 ../../../admin/class-
+#: inspiry-property-post-type.php:137 ../../../admin/class-inspiry-property-post-
+#: type.php:184 ../../../admin/class-inspiry-property-post-type.php:231
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:91
+msgid "Popular Property Types"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:92
+msgid "Search Property Types"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:93 ../../../admin/class-
+#: inspiry-property-post-type.php:140 ../../../admin/class-inspiry-property-post-
+#: type.php:187 ../../../admin/class-inspiry-property-post-type.php:234
+msgid "Not Found"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:124
+msgctxt "Taxonomy General Name"
+msgid "Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:125
+msgctxt "Taxonomy Singular Name"
+msgid "Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:126
+msgid "Statuses"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:127
+msgid "All Property Statuses"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:128
+msgid "Parent Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:129
+msgid "Parent Property Status:"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:130
+msgid "New Property Status Name"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:131
+msgid "Add New Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:132
+msgid "Edit Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:133
+msgid "Update Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:134
+msgid "View Property Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:135
+msgid "Separate Property Statuses with commas"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:136
+msgid "Add or remove Property Statuses"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:138
+msgid "Popular Property Statuses"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:139
+msgid "Search Property Statuses"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:171
+msgctxt "Taxonomy General Name"
+msgid "Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:172
+msgctxt "Taxonomy Singular Name"
+msgid "Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:173
+msgid "Locations"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:174
+msgid "All Property Cities"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:175
+msgid "Parent Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:176
+msgid "Parent Property City:"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:177
+msgid "New Property City Name"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:178
+msgid "Add New Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:179
+msgid "Edit Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:180
+msgid "Update Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:181
+msgid "View Property City"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:182
+msgid "Separate Property Cities with commas"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:183
+msgid "Add or remove Property Cities"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:185
+msgid "Popular Property Cities"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:186
+msgid "Search Property Cities"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:218
+msgctxt "Taxonomy General Name"
+msgid "Property Features"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:219
+msgctxt "Taxonomy Singular Name"
+msgid "Property Feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:220
+msgid "Features"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:221
+msgid "All Property Features"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:222
+msgid "Parent Property Feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:223
+msgid "Parent Property Feature:"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:224
+msgid "New Property Feature Name"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:225
+msgid "Add New Property Feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:226
+msgid "Edit Property Feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:227
+msgid "Update Property Feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:228
+msgid "View Property Feature"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:229
+msgid "Separate Property Features with commas"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:230
+msgid "Add or remove Property Features"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:232
+msgid "Popular Property Features"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:233
+msgid "Search Property Features"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:269 ../../../admin/class-
+#: inspiry-agent-post-type.php:80
+msgid "Photo"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:270
+msgid "Custom ID"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:271
+msgid "Price"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:283
+msgid "Type"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:284
+msgid "Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:285
+msgid "Location"
+msgstr "المكان"
+
+#: ../../../admin/class-inspiry-property-post-type.php:312 ../../../admin/class-
+#: inspiry-agent-post-type.php:118 ../../../admin/class-inspiry-partner-post-type.
+#: php:102
+msgid "No Image"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:321 ../../../admin/class-
+#: inspiry-property-post-type.php:332 ../../../admin/class-inspiry-agent-post-
+#: type.php:127 ../../../admin/class-inspiry-agent-post-type.php:136
+msgid "NA"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:353 ../../../plugins/meta-
+#: box/inc/fields/select.php:207
+msgid "None"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:366
+msgid "Consult theme documentation for required image size."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:377
+msgid "Basic Information"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:381
+msgid "Gallery Images"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:385
+msgid "Property Video"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:389
+msgid "Agent Information"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:393
+msgid "Misc"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:397
+msgid "Homepage Slider"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:401
+msgid "Top Banner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:411
+msgid "Sale or Rent Price ( Only digits )"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:412
+msgid "Example Value: 435000"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:420
+msgid "Price Postfix"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:421
+msgid "Example Value: Per Month"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:429
+msgid "Area Size ( Only digits )"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:430
+msgid "Example Value: 2500"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:438
+msgid "Size Postfix"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:439
+msgid "Example Value: Sq Ft"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:447
+msgid "Bedrooms"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:448
+msgid "Example Value: 4"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:456
+msgid "Bathrooms"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:457
+msgid "Example Value: 2"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:465
+msgid "Garages"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:466
+msgid "Example Value: 1"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:474
+msgid "Property ID"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:475
+msgid "It will help you search a property directly."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:492
+msgid "Property Address"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:493
+msgid "Leaving it empty will hide the google map on property detail page."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:501
+msgid "Property Location at Google Map*"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:502
+msgid ""
+"Drag the google map marker to point your property location. You can also use "
+"the address field above to search for your property."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:512
+msgid "Property Gallery Images"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:525
+msgid "Virtual Tour Video URL"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:526
+msgid ""
+"Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:532
+msgid "Virtual Tour Video Image"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:543
+msgid "What to display in agent information box ?"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:548
+msgid "Author information."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:549
+msgid "Agent Information. ( Select the agent below )"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:550
+msgid "None. ( Hide information box )"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:566
+msgid "Mark this property as featured ?"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:571 ../../../admin/class-
+#: inspiry-property-post-type.php:604
+msgid "Yes "
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:572 ../../../admin/class-
+#: inspiry-property-post-type.php:605 ../../../plugins/meta-
+#: box/inc/fields/checkbox.php:95
+msgid "No"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:579
+msgid "Attachments"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:580
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:588
+msgid "Private Note"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:589
+msgid ""
+"In this textarea, You can write your private note about this property. This "
+"field will not be displayed anywhere else."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:598
+msgid "Do you want to add this property in Homepage Slider ?"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:599
+msgid "If Yes, Then you need to provide a slider image below."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:611
+msgid "Slider Image"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:622
+msgid "Top Banner Image"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:624
+msgid ""
+"Upload the banner image, If you want to change it for this property. "
+"Otherwise default banner image uploaded from theme options will be displayed."
+" Image should have minimum width of 2000px and minimum height of 230px."
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:649
+msgid "Payment Information"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:659
+msgid "Not Available"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:673
+msgid "Transaction ID"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:677
+msgid "Payment Date"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:681
+msgid "First Name"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:685
+msgid "Last Name"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:689
+msgid "Payer Email"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:693
+msgid "Payment Status"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:697
+msgid "Payment Amount"
+msgstr ""
+
+#: ../../../admin/class-inspiry-property-post-type.php:701
+msgid "Payment Currency"
+msgstr ""
+
+#: ../../../admin/class-inspiry-additional-details-meta-box.php:46
+msgid "Additional Details"
+msgstr ""
+
+#: ../../../admin/class-inspiry-additional-details-meta-box.php:77
+msgid "Title"
+msgstr ""
+
+#: ../../../admin/class-inspiry-additional-details-meta-box.php:78 ../../..
+#: /plugins/meta-box/inc/fields/key-value.php:20
+msgid "Value"
+msgstr ""
+
+#: ../../../admin/class-inspiry-agent-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Agents"
+msgstr ""
+
+#: ../../../admin/class-inspiry-agent-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Agent"
+msgstr ""
+
+#: ../../../admin/class-inspiry-agent-post-type.php:216
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Partners"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Partner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:23 ../../../admin/class-
+#: inspiry-partner-post-type.php:39 ../../../admin/class-inspiry-partner-post-
+#: type.php:40
+msgid "Partners"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:24
+msgid "Partner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:25
+msgid "Parent Partner:"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:26
+msgid "All Partners"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:27
+msgid "Add New Partner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:29
+msgid "New Partner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:30
+msgid "Edit Partners"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:31
+msgid "Update Partner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:32
+msgid "View Partner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:33
+msgid "Search Partner"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:70
+msgid "Logo"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:125
+msgid "Partner Information"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:131
+msgid "Website URL"
+msgstr ""
+
+#: ../../../admin/class-inspiry-partner-post-type.php:133
+msgid "Provide website URL"
+msgstr ""
+
+#. Name of the plugin
+msgid "Meta Box"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create custom meta boxes and custom fields for any post type in WordPress."
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/field.php:249
+msgid "+ Add more"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/common.php:48
+msgid "Documentation"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/common.php:49
+msgid "Extensions"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/file-input.php:40 ../../../plugins/meta-
+#: box/inc/fields/select.php:207
+msgid "Select"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/media.php:163 ../../../plugins/meta-
+#: box/inc/fields/image-advanced.php:35
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/media.php:164
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/media.php:165
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/media.php:166
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/media.php:167
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/media.php:168
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/media.php:169
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/oembed.php:62
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/image.php:70 ../../../plugins/meta-
+#: box/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/autocomplete.php:18 ../../../plugins/meta-
+#: box/inc/fields/autocomplete.php:83 ../../../plugins/meta-
+#: box/inc/fields/autocomplete.php:100
+msgid "Delete"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/checkbox.php:95
+msgid "Yes"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/user.php:49
+msgid "Select an user"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/select.php:207
+msgid "All"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/taxonomy.php:40 ../../../plugins/meta-
+#: box/inc/fields/post.php:71
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/file.php:111
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/file.php:169
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ../../../plugins/meta-box/inc/fields/post.php:67
+msgid "Select a post"
+msgstr ""
+
+#: ../../../admin/class-inspiry-agent-post-type.php:23
+msgid "Agents"
+msgstr "الوكلاء المعلنين"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:25
+msgid "Parent Agent:"
+msgstr "المعلن الرئيسي"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:26
+msgid "All Agents"
+msgstr "كل الوكلاء"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:27
+msgid "Add New Agent"
+msgstr "أضف وكيل جديد"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:29
+msgid "New Agent"
+msgstr "وكيل معلن جديد"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:30
+msgid "Edit Agent"
+msgstr "تعديل الوكيل"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:31
+msgid "Update Agent"
+msgstr "تعديل الوكيل"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:32
+msgid "View Agent"
+msgstr "عرض الوكيل المعلن"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:33
+msgid "Search Agent"
+msgstr "بحث الوكلاء المعلنين"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:47
+msgid "Real Estate Agent"
+msgstr "وكيل عقاري"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:81
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:82
+msgid "Mobile"
+msgstr "الموبايل"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:159
+msgid "Contact Details"
+msgstr "بيانات التواصل"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:165
+msgid "Job Title"
+msgstr "الوظيفة"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:170
+msgid "Email Address"
+msgstr "البريد الإلكتروني"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:172
+msgid ""
+"Agent related messages from contact form on property details page, will be "
+"sent on this email address."
+msgstr ""
+"رسائل مشتريين عقاراتك سيتواصلون عبر بريدك الإلكتروني الموضح في بيانات تواصل "
+"في صفحة كل عقار."
+
+#: ../../../admin/class-inspiry-agent-post-type.php:176
+msgid "Mobile Number"
+msgstr "رقم الموبايل"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:181
+msgid "Office Number"
+msgstr "هاتف المكتب "
+
+#: ../../../admin/class-inspiry-agent-post-type.php:186
+msgid "Fax Number"
+msgstr "فاكس"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:191
+msgid "Office Address"
+msgstr "عنوان المكتب"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:196
+msgid "Facebook URL"
+msgstr "رابط الفيس بوك"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:201
+msgid "Twitter URL"
+msgstr "رابط تويتر"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:206
+msgid "Google Plus URL"
+msgstr "رابط جوجل بلس"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:211
+msgid "LinkedIn URL"
+msgstr "رابط لينكد ان"
+
+#: ../../../admin/class-inspiry-agent-post-type.php:221
+msgid "Instagram URL"
+msgstr "رابط انستجرام "
+
+#: ../../../plugins/meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "إضافة صورة جديدة"
+
+#: ../../../plugins/meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr "حذف"
+
+#: ../../../plugins/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr "حرر"
+
+#: ../../../plugins/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "إفلت الصور هنا"
+
+#: ../../../plugins/meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "or"
+msgstr "أو"
+
+#: ../../../plugins/meta-box/inc/fields/plupload-image.php:107
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "إختر الملفات"
+
+#: ../../../plugins/meta-box/inc/fields/plupload-image.php:182
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "أنواع الصور المسموحة"
+
+#: ../../../plugins/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr "خطأ: لا يمكن حذف الملف"
+
+#: ../../../plugins/meta-box/inc/fields/file.php:112
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ إضافة ملف جديد"
+
+#: ../../../plugins/meta-box/inc/fields/file.php:168
+msgctxt "file upload"
+msgid "Delete"
+msgstr "حذف"

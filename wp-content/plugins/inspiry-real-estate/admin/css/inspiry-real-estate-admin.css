@@ -1,0 +1,163 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/**
+ *  General Meta Boxes
+ */
+#REAL_HOMES_property_address{
+    width: 100%;
+}
+
+/**
+ *  Additional details meta box
+ */
+
+.inspiry-detail {
+    overflow: hidden;
+    margin: 5px 0;
+}
+
+.detail-placeholder{
+    margin: 5px 0;
+    background: #fafafa;
+    height: 29px;
+}
+
+.inspiry-detail label{
+    display: block;
+}
+
+.inspiry-detail input[type="text"]{
+    width: 97%;
+}
+
+.inspiry-detail-control{
+    width: 3%;
+    float: left;
+    color: #aaa;
+}
+
+.sort-detail{
+    cursor: move;
+}
+
+.sort-detail:hover{
+    color: #666;
+}
+
+.inspiry-detail-title{
+    width: 34%;
+    float: left;
+}
+
+.inspiry-detail-value{
+    width: 60%;
+    float: left;
+}
+
+.inspiry-details-wrapper a{
+    color: #aaa;
+}
+
+.inspiry-details-wrapper a:hover,
+.inspiry-details-wrapper a:focus{
+    color: #666;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.inspiry-details-wrapper .dashicons{
+    text-decoration: none;
+    margin-top: 3px;
+}
+
+@media all and ( max-width: 1200px ) {
+
+    .inspiry-detail-control{
+        width: 4%;
+    }
+    .inspiry-detail-title{
+        width: 34%;
+    }
+
+    .inspiry-detail-value{
+        width: 58%;
+    }
+
+}
+
+@media all and ( max-width: 500px ) {
+
+    .inspiry-detail-control{
+        width: 5%;
+    }
+    .inspiry-detail-title{
+        width: 32%;
+    }
+    .inspiry-detail-value{
+        width: 58%;
+    }
+    .inspiry-details-wrapper .dashicons{
+        margin-top: 8px;
+    }
+
+}
+
+
+/*
+ * Inspiry Settings Page
+ */
+
+label.inspiry-field-description{
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+input.currency_sign,
+input.decimal_separator,
+input.thousand_separator,
+input.number_of_decimals{
+    width: 50px;
+}
+
+/*
+ * Payments table
+ */
+#payments-table {
+    border: 1px solid #dedede;
+    background: #fff;
+    margin: 25px 0;
+    border-collapse: collapse;
+}
+#payments-table th, #payments-table td {
+    border: 1px solid #dedede;
+    text-align: left;
+}
+#payments-table a {
+    text-decoration: none;
+}
+#payments-table a:hover {
+    text-decoration: underline;
+}
+#payments-table .pagination {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+#payments-table .pagination li {
+    display: inline;
+}
+#payments-table .pagination li.active a {
+    font-weight: bold;
+}
+#payments-table .pagination a {
+    display: inline-block;
+    padding: 2px 3px;
+    text-decoration: none;
+}
+#payments-table .pagination a:hover {
+    text-decoration: underline;
+}
